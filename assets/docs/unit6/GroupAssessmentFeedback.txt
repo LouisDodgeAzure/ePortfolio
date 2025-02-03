@@ -1,0 +1,39 @@
+Very well structured and comprehensive report. I particularly liked the layout and how the security challenges, threats, and approaches were presented together. The use of tables, sections, and subtitles made it very clear what was being addressed in each section and I feel would clearly explain to a client what was going to be carried out in the main project/ assessment.
+
+ 
+
+Knowledge and Understanding
+
+Initial report covers all major important concepts of the topic and presented the case in the light of industry practices. The section for Risk and Threat modeling provides a comprehensive list outlining the purposes.
+
+ 
+
+Distinction
+
+ 
+
+ 
+
+Application of knowledge
+
+The purpose of the tools and related limitations are outlined well. The report has presented the threats and challenges and they are aligned with the tools selection.
+
+Distinction
+
+ 
+
+Criticality
+
+Business questions and recommendation can highlight more on the risk and threats, some of the questions only highlights the business aspects. Tabular format of information presentation is good, however, a reflection on the evaluation process, standards and impacts in the light of literature and industry practices would have improved this section. The methodology can suggest the evaluation of tools and a solid framework can be used for ranking.
+
+Merit.
+
+ 
+
+Structure and Presentation
+
+The document is well presented. Tables and charts are nicely presented and made the document easy to follow. The tables have produced the contents in highly organised way.
+
+Distinction.
+
+ 
